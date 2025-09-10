@@ -1,8 +1,8 @@
 # ECON 725: Computer Programming and Data Management in Economics (Fall 2025)
 
-| Instructor | [Marcelo Ortiz-Villavicencio](https://marcelortiz.com/) |
+| Instructor | [Francesca Porcelli] |
 |--------------|--------------------------------------------------------------|
-| Email | [marcelo.ortiz@emory.edu](mailto:marcelo.ortiz@emory.edu) |
+| Email | [francesca.porcelli@emory.edu](mailto:francesca.porcelli@emory.edu) |
 | Office Hours | See Canvas for info |
 | Meeting day/time | MW 8:30-09:45am |
 
